@@ -167,7 +167,6 @@ After elaboration the file will come under snapshot. Select the test bench and s
 
 ![386925864-34495198-da85-4703-aa4f-23da7bc4c087](https://github.com/user-attachments/assets/ecd4659b-2a87-42ae-adae-6ed459d36086)
 
-
 ## Fig 8: Elaboration Launch Option
 
 ## Step 3: Simulation: 
@@ -180,17 +179,13 @@ Outputs: Simulation log file, waveforms for debugging
 
 Simulation allow to dump design and test bench signals into a waveform 
 
-Steps for simulation – Run the simulation command with simulator options
-
 ![386925888-e46b0b13-1a7f-41c6-9d0c-ecaca1a0f920](https://github.com/user-attachments/assets/a3aae521-e39b-46b2-a972-12c201b496d3)
 
 ## Fig 9: Design Browser window for simulation
 ![386925905-590a5f03-c915-4138-bb6a-6eba5aa58d15](https://github.com/user-attachments/assets/66683cf8-46cd-467f-b6c4-18d242ff4b8d)
 
-
 ## Fig 10:Simulation Waveform Window
 ![386925911-3019798b-c703-4733-847b-56910aca731f](https://github.com/user-attachments/assets/bcc255eb-dd6b-42da-8a1c-1827dfc0b7dc)
-
 
 ### Result
 
