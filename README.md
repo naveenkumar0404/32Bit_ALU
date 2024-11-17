@@ -103,7 +103,7 @@ Left side you can see the HDL files. Right side of the window has worklib and sn
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
-![386825261-80091367-42d2-48ab-8753-4d6c0d643992](https://github.com/user-attachments/assets/3d6216ff-d1a0-4659-8bed-389a2347391a)
+![image](https://github.com/user-attachments/assets/8a223792-39c0-45a8-aa93-94e7ed60a451)
 
 ### Fig 6: Nclaunch Window
 
