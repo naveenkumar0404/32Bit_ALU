@@ -125,6 +125,9 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
+![386925864-34495198-da85-4703-aa4f-23da7bc4c087](https://github.com/user-attachments/assets/54a421c5-43b8-4301-b9c7-dd30b4af08d2)
+
+
 ### Fig 7: Compiled database in worklib
 
 After compilation it will come under worklib you can see in right side window
@@ -159,6 +162,8 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
+![386925864-34495198-da85-4703-aa4f-23da7bc4c087](https://github.com/user-attachments/assets/54a421c5-43b8-4301-b9c7-dd30b4af08d2)
+
 ## Fig 8: Elaboration Launch Option
 
 ## Step 3: Simulation: 
@@ -173,9 +178,13 @@ Simulation allow to dump design and test bench signals into a waveform
 
 Steps for simulation – Run the simulation command with simulator options
 
+![Screenshot (276)](https://github.com/user-attachments/assets/02825958-abd8-49eb-a194-90591f249180)
+
 ## Fig 9: Design Browser window for simulation
+![Screenshot (277)](https://github.com/user-attachments/assets/166d0735-544a-426b-a2bb-6955e695c66c)
 
 ## Fig 10:Simulation Waveform Window
+![Screenshot (278)](https://github.com/user-attachments/assets/aa34582a-aa9d-4947-80b7-0a7a316c33d3)
 
 ## Fig 11:Simulation Waveform Window
 
