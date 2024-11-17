@@ -165,8 +165,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
-![386825271-e8817e3e-a37e-41f7-8f7e-9beadae8c0f3](https://github.com/user-attachments/assets/0c6780b4-78b7-4540-bbac-4c39d6716986)
-
+![386925864-34495198-da85-4703-aa4f-23da7bc4c087](https://github.com/user-attachments/assets/ecd4659b-2a87-42ae-adae-6ed459d36086)
 
 
 ## Fig 8: Elaboration Launch Option
